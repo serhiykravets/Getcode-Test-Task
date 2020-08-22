@@ -13,6 +13,23 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
@@ -101,6 +118,7 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gPViYif4EwQEe98ieDGTfax75J" />
@@ -112,6 +130,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -140,6 +159,19 @@
       <workItem from="1598038033121" duration="1764000" />
       <workItem from="1598040191423" duration="1792000" />
       <workItem from="1598042183525" duration="1327000" />
+      <workItem from="1598103899587" duration="790000" />
+      <workItem from="1598104756614" duration="599000" />
+      <workItem from="1598106568189" duration="1797000" />
+      <workItem from="1598108398916" duration="818000" />
+      <workItem from="1598112824088" duration="944000" />
+      <workItem from="1598114647156" duration="1802000" />
+      <workItem from="1598116490236" duration="937000" />
+      <workItem from="1598118540406" duration="908000" />
+      <workItem from="1598121305492" duration="1795000" />
+      <workItem from="1598123115086" duration="1794000" />
+      <workItem from="1598124921048" duration="1794000" />
+      <workItem from="1598126727259" duration="1794000" />
+      <workItem from="1598128535878" duration="466000" />
     </task>
     <servers />
   </component>
@@ -151,17 +183,21 @@
       <screen x="-1920" y="-77" width="1920" height="1040" />
     </state>
     <state x="-1126" y="366" key="NewPhpFileDialog/0.0.1920.1040/-1920.-77.1920.1040@-1920.-77.1920.1040" timestamp="1598024991553" />
-    <state x="-1264" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1598042183585">
+    <state x="-1264" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1598128535470">
       <screen x="-1920" y="-77" width="1920" height="1040" />
     </state>
-    <state x="-1264" y="267" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-77.1920.1040@-1920.-77.1920.1040" timestamp="1598042183585" />
+    <state x="-1264" y="267" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-77.1920.1040@-1920.-77.1920.1040" timestamp="1598128535470" />
     <state x="-1264" y="41" width="607" height="804" key="find.popup" timestamp="1598017817722">
       <screen x="-1920" y="-77" width="1920" height="1040" />
     </state>
     <state x="-1264" y="41" width="607" height="804" key="find.popup/0.0.1920.1040/-1920.-77.1920.1040@-1920.-77.1920.1040" timestamp="1598017817722" />
-    <state x="-1297" y="148" width="672" height="678" key="search.everywhere.popup" timestamp="1598017270854">
+    <state x="-1304" y="202" key="run.anything.popup" timestamp="1598116393470">
       <screen x="-1920" y="-77" width="1920" height="1040" />
     </state>
-    <state x="-1297" y="148" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-77.1920.1040@-1920.-77.1920.1040" timestamp="1598017270854" />
+    <state x="-1304" y="202" key="run.anything.popup/0.0.1920.1040/-1920.-77.1920.1040@-1920.-77.1920.1040" timestamp="1598116393470" />
+    <state x="-1297" y="148" width="672" height="678" key="search.everywhere.popup" timestamp="1598115430785">
+      <screen x="-1920" y="-77" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="148" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-77.1920.1040@-1920.-77.1920.1040" timestamp="1598115430785" />
   </component>
 </project>
