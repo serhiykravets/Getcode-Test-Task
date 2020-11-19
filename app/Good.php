@@ -9,14 +9,7 @@ class Good extends Model
 {
     public static function addGood($data)
     {
-        $rowData = [
-            'sku' => $data['sku'],
-            'name' => $data['name'],
-            'brand' => $data['brand'],
-            'description' => $data['description'],
-            'url' => $data['url'],
-        ];
-        $id = DB::table('goods')->insertGetId($rowData);
+        $id = DB::table('goods')->insertGetId($data);
         return $id;
     }
 }
